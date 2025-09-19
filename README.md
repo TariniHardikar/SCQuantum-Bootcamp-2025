@@ -9,8 +9,8 @@ An overview of the program is below. For further details and zoom information, p
 | 9/10 | Submitting to a QPU | 
 | 9/15 | Background math | 
 | 9/17 | More math + intro to python|
-| 9/19 | Qubits & gates | 
-| 9/22 | Multi-qubit gates |
+| 9/19 | Qubits & gates + Multi-qubit gates | 
+| 9/22 | Quantum Teleportation |
 | 9/24 | Intro to quantum programming |
 | 9/26 | Quantum programming II |
 | 9/29 | VQE Implementation in qiskit |
